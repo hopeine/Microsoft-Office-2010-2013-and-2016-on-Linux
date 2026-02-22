@@ -2,6 +2,7 @@
 
 # Installing Microsoft Office 2010, 2013, and 2016 on Linux
 Wine only.
+Requirements:
 - Microsoft Office VL .iso files
 - wine
 - winbind
