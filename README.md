@@ -43,7 +43,7 @@ You can proceed normally from now on.
 If bullet lists show as squares, Wine probably can't find the right font files (`.ttf`). Fix this by installing it from winetricks.
 `winetricks corefonts` or `winetricks allfonts`.
 
-Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.wine/drive_c/windows/Fonts`. You may copy all fonts or just the following:
+Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.wine/drive_c/windows/Fonts`. You may copy all the fonts, or just the following:
 - Arial
 - Calibri
 - Courier New
