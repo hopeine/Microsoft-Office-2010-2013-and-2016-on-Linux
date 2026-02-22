@@ -2,7 +2,8 @@
 
 # Installing Microsoft Office 2010, 2013, and 2016 on Linux
 This is an installation process without using any VMs and Wine Managers.
-Requirements are the following:
+
+The requirements are the following:
 - Microsoft Office VL .iso files
 - wine
 - winbind
