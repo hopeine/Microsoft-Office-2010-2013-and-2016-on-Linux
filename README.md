@@ -59,6 +59,3 @@ These are the issues I'm currently having:
 - ~Fonts probably differ, bullet list shows squares. Don't know how to fix yet.~
 
 If resolved, I might put the solutions into the Notes section.
-
-***
-Last updated 22/2/26
