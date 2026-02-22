@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="Office-test" src="https://github.com/user-attachments/assets/524ed7c9-d5b1-4b67-add8-51a424905191" />
 
 # Installing Microsoft Office 2010, 2013, and 2016 on Linux
-By using only
+Wine only.
 - Microsoft Office VL .iso files
 - wine
 - winbind
