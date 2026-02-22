@@ -28,7 +28,7 @@ cd /path/to/file
 wine setup.exe
 ```
 
-### For Office 2013 and 2016, you might be told to enter an activation key
+### For Office 2013 and 2016, you might be told to enter an activation key.
 Simply run `winecfg` and set the Windows version to Windows 7.
 
 ## 3. Proceed the installation normally
