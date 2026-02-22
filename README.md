@@ -48,7 +48,7 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - Calibri
 - Courier New
 - Times New Roman
-- Symbol (This fixed the bullet list problem)
+- Symbol (This fixes the bullet list problem)
 - Wingdings
 - Webdings
 - etc.
