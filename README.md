@@ -1,4 +1,3 @@
-This is still work in progress.
 # Installing Microsoft Office 2010, 2013, and 2016 on Linux
 By using only
 - Microsoft Office VL .iso files
@@ -39,3 +38,6 @@ These are the issues I'm currently having:
 
 - PowerPoint 2010 doesn't work, so does the 2013 and 2016 with the error "There's not enough memory or system resources to start PowerPoint".
 - Office 2013 and 2016 doesn't run as smooth as Office 2010.
+
+***
+Last updated 22/2/26
