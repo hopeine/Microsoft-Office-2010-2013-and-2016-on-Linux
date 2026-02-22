@@ -5,7 +5,7 @@ By using only
 - winbind
 - winetricks
 
-All of this is done on KDE 6 in Kubuntu. I don't know how it is regarding other DEs or distros.
+All of these are done on KDE 6 Kubuntu. I don't know how it is regarding other DEs or distros.
 
 ***
 
