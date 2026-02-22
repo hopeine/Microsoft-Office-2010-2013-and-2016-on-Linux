@@ -65,6 +65,5 @@ These are the issues I'm currently having:
 
 - PowerPoint 2010 doesn't work, so does the 2013 and 2016 with the error "There's not enough memory or system resources to start PowerPoint".
 - Office 2013 and 2016 doesn't run as smooth as Office 2010.
-- ~Fonts probably differ, bullet list shows squares. Don't know how to fix yet.~
 
 If resolved, I might put the solutions into the Notes section.
