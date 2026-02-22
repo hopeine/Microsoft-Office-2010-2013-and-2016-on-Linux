@@ -30,6 +30,7 @@ wine setup.exe
 Simply run `winecfg` and set the Windows version to Windows 7.
 
 ## 3. Proceed the installation normally
+You can proceed normally from now on.
 
 ***
 
