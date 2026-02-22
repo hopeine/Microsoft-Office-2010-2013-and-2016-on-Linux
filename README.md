@@ -37,14 +37,26 @@ You can proceed normally from now on.
 ***
 
 ## Notes
-- 
+### Fonts differ; bullet list not rendered properly and shown as square.
+Possibly no corresponding font .ttf file was detected in `~/.wine/drive_c/windows/Fonts`. Install the fonts using winetricks.
+`winetricks corefonts` or `winetricks allfonts`.
+
+Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.wine/drive_c/windows/Fonts`. You may copy all fonts or just the following:
+- Arial
+- Calibri
+- Courier New
+- Times New Roman
+- Symbol (This fixed the bullet list problem)
+- Wingdings
+- Webdings
+- etc.
 
 ## Current Issue
 These are the issues I'm currently having:
 
 - PowerPoint 2010 doesn't work, so does the 2013 and 2016 with the error "There's not enough memory or system resources to start PowerPoint".
 - Office 2013 and 2016 doesn't run as smooth as Office 2010.
-- Fonts probably differ, bullet list shows squares. Don't know how to fix yet.
+- ~Fonts probably differ, bullet list shows squares. Don't know how to fix yet.~
 
 If resolved, I might put the solutions into the Notes section.
 
