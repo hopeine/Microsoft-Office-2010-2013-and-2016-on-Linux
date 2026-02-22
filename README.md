@@ -14,7 +14,6 @@ Now I can't tell you where to get one. It's not like you can just get any _free 
 
 After getting one, mount it. There will be a setup.exe file.
 
-
 ## 2. Install wine, winbind, and winetricks
 On Debian-based,
 ```
@@ -29,7 +28,6 @@ wine setup.exe
 
 **For Office 2013 and 2016, you might be told to enter an activation key.**
 Simply run `winecfg` and set the Windows version to Windows 7.
-
 
 ## 3. Proceed the installation normally
 You can proceed normally from now on.
