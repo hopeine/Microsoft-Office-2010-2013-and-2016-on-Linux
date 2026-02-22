@@ -53,6 +53,13 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - Webdings
 - etc.
 
+### Office windows keep maximizing itself
+If Office apps force themselves to fullscreen:
+1. run `winecfg`
+2. Go to 'Graphics'
+3. Uncheck 'Allow the window manager to decorate the windows'
+4. Check 'Allow the window manager to control the windows'
+
 ## Current Issue
 These are the issues I'm currently having:
 
