@@ -9,7 +9,7 @@ The requirements are the following:
 - winbind
 - winetricks
 
-Tested on Kubuntu with KDE 6 and wine-10.0. Should work on other distros/DEs. Feel free to try.
+Tested on Kubuntu with KDE 6 and wine-10.0. Should work on other distros/DEs/wine versions. Feel free to try.
 
 ***
 
