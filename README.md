@@ -34,6 +34,10 @@ You can proceed normally from now on.
 
 ***
 
+## Notes
+- Fonts may differ, try installing corefonts.
+`winetricks corefonts`
+
 ## Current Issue
 These are the issues I'm currently having:
 
