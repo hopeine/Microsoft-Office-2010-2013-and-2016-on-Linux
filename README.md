@@ -53,11 +53,6 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - Webdings
 - etc.
 
-I don't know how this solution is related at all, but it kinda fixed it.
-1. run `winecfg`
-2. Go to 'Graphics'
-3. Check 'Automatically capture the mouse in full-screen windows'
-
 ## Current Issue
 These are the issues I'm currently having:
 
