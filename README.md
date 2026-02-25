@@ -55,7 +55,8 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - etc.
 
 ### Right-clicking in a document results flickering.
-- Maybe because you're on Wayland.
+Maybe because you're on Wayland. Weirdly enough though, after I installed X11, it doesn't flicker anymore even if I'm on Wayland.
+
 
 ## Current Issue
 These are the issues I'm currently having:
