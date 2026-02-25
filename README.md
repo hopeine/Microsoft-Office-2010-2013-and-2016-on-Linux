@@ -53,7 +53,7 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - Wingdings
 - Webdings
 - etc.
-- 
+
 ### Right-clicking in a document results flickering.
 - Maybe because you're on Wayland.
 
