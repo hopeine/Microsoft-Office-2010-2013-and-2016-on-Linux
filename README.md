@@ -39,6 +39,7 @@ You can proceed normally from now on.
 ***
 
 ## Notes
+
 ### Fonts differ; bullet list not rendered properly and shown as square.
 If bullet lists show as squares, Wine probably can't find the right font files (`.ttf`). Fix this by installing it from winetricks.
 `winetricks corefonts` or `winetricks allfonts`.
@@ -52,11 +53,13 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - Wingdings
 - Webdings
 - etc.
+- 
+### Right-clicking in a document results flickering.
+- Maybe because you're on Wayland.
 
 ## Current Issue
 These are the issues I'm currently having:
 
-- Right-clicking in a document results flickering.
 - PowerPoint 2010 doesn't work, so does the 2013 and 2016 with the error "There's not enough memory or system resources to start PowerPoint".
 - Office 2013 and 2016 doesn't run as smooth as Office 2010.
 
