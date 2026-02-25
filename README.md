@@ -53,7 +53,6 @@ Or if you have Windows installed, copy the fonts from `C:\Windows\Fonts` to `~/.
 - Webdings
 - etc.
 
-### Right-clicking doesn't work (flickering, black bars)
 I don't know how this solution is related at all, but it kinda fixed it.
 1. run `winecfg`
 2. Go to 'Graphics'
@@ -62,6 +61,7 @@ I don't know how this solution is related at all, but it kinda fixed it.
 ## Current Issue
 These are the issues I'm currently having:
 
+- Right-clicking in a document results flickering.
 - PowerPoint 2010 doesn't work, so does the 2013 and 2016 with the error "There's not enough memory or system resources to start PowerPoint".
 - Office 2013 and 2016 doesn't run as smooth as Office 2010.
 
