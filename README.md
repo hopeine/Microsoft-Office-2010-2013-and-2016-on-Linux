@@ -59,7 +59,7 @@ Maybe because you're on Wayland. Try X11.
 
 
 ## Current Issue
-These are the issues I'm currently having:
+On-going issues:
 
 - PowerPoint 2010 doesn't work, so does the 2013 and 2016 with the error "There's not enough memory or system resources to start PowerPoint".
 - Office 2013 and 2016 doesn't run as smooth as Office 2010.
