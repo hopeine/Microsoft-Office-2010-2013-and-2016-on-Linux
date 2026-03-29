@@ -14,7 +14,7 @@ Tested on Kubuntu with KDE 6 and wine-10.0. Should work on other distros/DEs/win
 ***
 
 ## 1. Getting the .iso files
-Now I can't tell you where to get one. It's not like you can just get any _free media_ online and then go '_heck yeah_!'. You'd be in big _mess_, _grave_ danger even.
+Find a Microsoft Office VL .iso file.
 
 After getting one, mount it. There will be a setup.exe file.
 
