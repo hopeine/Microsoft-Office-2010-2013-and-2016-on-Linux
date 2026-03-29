@@ -22,7 +22,7 @@ After getting one, mount it. There will be a setup.exe file.
 On Debian-based systems,
 ```
 sudo apt update
-sudo apt install wine winbind winetricks
+sudo apt install wine winbind winetricks // apt's wine is outdated! Install from their official website.
 ```
 and then run setup.exe using wine.
 ```
